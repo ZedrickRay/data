@@ -1,0 +1,17 @@
+train:
+  - "C:\\Users\\edgar\\Desktop\\data\\images\\Class A\\train"
+  - "C:\\Users\\edgar\\Desktop\\data\\images\\Class B\\train"
+
+val:
+  - "C:\\Users\\edgar\\Desktop\\data\\labels\\Class A\\val"
+  - "C:\\Users\\edgar\\Desktop\\data\\labels\\Class B\\val"
+  
+
+nc: 2
+
+kpt_shape:
+- 12
+- 3
+names:
+  0: A
+  1: B
