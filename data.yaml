@@ -3,8 +3,8 @@ train:
   - "C:\\Users\\edgar\\Desktop\\data\\images\\Class B\\train"
 
 val:
-  - "C:\\Users\\edgar\\Desktop\\data\\labels\\Class A\\val"
-  - "C:\\Users\\edgar\\Desktop\\data\\labels\\Class B\\val"
+  - "C:\\Users\\edgar\\Desktop\\data\\images\\Class A\\val"
+  - "C:\\Users\\edgar\\Desktop\\data\\images\\Class B\\val"
   
 
 nc: 2
